@@ -1,0 +1,25 @@
+1、选题   熟悉的行业  领域的产品
+2、项目要完整  包含必须的常用网页  
+   首页   登陆   注册  二级  三级  400    500   faq  练习（关于我们）... 
+项目：嘉木
+3、建表
+   页面中所有数据都可以从服务器端获取
+   示例：网页：jm_site_info(site_name,logo,copyright)
+              导航 ：jm_navbar_item
+             轮播图 ：jm_carousel_item
+             新品上市：产品详情：jm_new_product
+             用户登陆表：jm_user
+4、创建jm项目主文件                  jm文件夹
+      创建模块                               node_module文件夹
+      创建主程序（创建一个服务器）     app.js
+      创建sql连接池                        pool.js
+      public文件夹      存放网页    
+      模块：router路由     首页模块   导航模块  商品模块  
+      package.json    指定启动文件
+      数据库文件   jm.sql
+     
+5、数据库文件
+创建  网站的基本信息表   site-name网站名称   logo图片路径    copyright网页最下面的一行
+创建  导航栏条目表     导航名称name  连接地址url    提示title    商城首页  连接地址  提示文字
+创建  轮播图数据表    编号 bid  主键约束 primary key auto_increment    图片    连接路径    提示文字
+		null     图片路径     连接地址     提示文字
