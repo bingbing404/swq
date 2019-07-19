@@ -1,0 +1,160 @@
+*{
+	color:#000;
+}
+.deta-1{
+	width: 1280px;
+	height: 786px;
+	background:#fff;
+	margin:30px auto;
+	position:relative;  
+}
+.deta-1 .bimg{
+	width:600px;
+	position:absolute;
+	top:95px;
+	left:230px;
+}
+.deta-1 .deta-11{
+	width:82px;
+	height:786px;
+	background-color: #fff;
+	position: absolute;
+	left: 65px;
+}
+.deta-1 .deta-11 img{
+	float:left;
+	width:130px;
+	height: 120px;
+	margin:15px 0 10px 30px;
+}
+.deta-1 .deta-11 img:hover{
+	border: 1px solid #f00;
+}
+.deta-1 .deta-12{
+	width:433px;
+	height: 513px;
+	background-color: #fff;
+	position: absolute;
+	top: 95px;
+	left:800px;
+}
+.deta-1 .deta-12 h2{
+	font-size:35px;
+	font-weight: bold;
+}
+.deta-1 .deta-12 h3{
+	font-size:17px;
+	color:#aaa;
+	margin-bottom: 15px;
+	margin-top:15px;	
+	font-weight: bold;
+}
+.deta-1 .deta-12 h1{
+	font-size: 50px;
+	margin-top:40px;
+	margin-bottom: 30px;
+}
+.deta-12 .btn button{
+	width:16px;
+}
+.deta-12 .btn input{
+	width:18px;
+	border:none;
+	text-align:center;
+}
+.deta-1 .deta-12 .a1,.deta-1 .deta-12 .a2{
+	display:inline-block;
+	width:170px;
+	height:50px;
+	text-align: center;
+	line-height: 45px;
+	margin-top: 20px;
+	color:#fff;
+	border-radius: 3%;
+}
+.deta-1 .deta-12 .a1{
+	background-color: #f00;	
+}
+.deta-1 .deta-12 .a1:hover{
+	background-color: #ddd;
+}
+.deta-1 .deta-12 .a2{
+	border:1px solid #f00;
+	color:#f00;
+}
+.deta-1 .deta-12 .a2:hover{
+	background-color: #ddd;
+	border:none;
+}
+.deta-1 .deta-12 .p1 img{
+	width:25px;
+	height:25px;
+}
+.deta-1 .deta-12 .p1{
+	margin-top: 35px;
+}
+.deta-1 .deta-12 .p2{
+	color:#aaa;
+	margin-top: 30px;
+}
+.deta-1 .deta-12 .p3{
+	line-height: 26px;
+}
+.deta-2{
+	width:1280px;
+	height: 92px;
+	margin:-30px auto;
+}
+.deta-2 .li1 img{
+	width: 25px;
+	height: 25px;
+}
+.deta-2 .li1{
+	float: left;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 92px;
+}
+.deta-2 ul li{
+	float:right;
+	font-size:20px;
+	font-weight: bold;
+	line-height: 92px;
+	margin-right: 18px;
+}
+.deta-3{
+	width:1280px;
+	height: 760px;
+	background-color: #fff;
+	margin:30px auto;
+}
+.deta-3 h4{
+	color:#f00;
+	font-size:25px;
+	padding-top:80px; 
+	margin-left: 50px;
+	margin-bottom: 20px;
+}
+.deta-3 table tr{
+	display: inline-block;
+	margin-top: 13px;
+}
+.deta-3 table tr th,.deta-3 table tr td{
+	color:#000;
+	font-size:18px;
+	font-weight: bold;
+}
+.deta-3 table tr th{
+	float:left;
+	margin-left: 50px;
+	margin-right: 467px;
+	color:#aaa;
+}
+.deta-3 table tr td{
+	margin-left: 350px;
+	text-align: right;
+}
+.d1,.d2,.d3,.d4{
+	position:relative;
+	z-index:10;
+}

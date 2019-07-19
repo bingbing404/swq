@@ -1,0 +1,206 @@
+		*{
+			color:#000;
+		}
+		.gofive{
+			width:1280px;
+			height:160px;
+			background:#fff;
+			margin:auto;
+			margin-bottom:30px;			
+		}
+		.gofive ul li{
+			float:left;
+			margin-left:110px;
+			text-align:center;
+			margin-top:50px;
+		}
+		.gofive ul li img{
+			width:36px;
+			height:33px;
+		}
+		.gofive ul li:hover{
+			transform: scale(1.2);
+		}
+		.gy{
+			width:1280px;
+			height:700px;	
+			margin:auto;
+			margin-bottom:30px;
+		}
+		.gy_my{
+			width:410px;
+			height:156px;
+			float:left;
+			background-color: #fff;
+		}
+		.gy_my h4{
+			margin:20px 0px 0px 40px;
+		}
+		.gy_my .plx .wb{
+			width:30px;
+			height:25px;
+			margin:55px 0px 0px 20px;
+			}
+		.gy_my .plx .wx{
+			width:30px;
+			height:25px;
+			margin:55px 0px 0px 30px;
+		}
+		.gy .gy_my .pewm img{
+			width:122px;
+			height:124px;
+			margin:-110px 0px 0px 240px;
+		}
+		.gy_new{
+			width:410px;
+			height:156px;
+			background-color:#fff;
+			float:left;
+			margin-left:26px;
+			background-color: #aaa;
+		}
+		.gy_new button:hover{
+			background-color: #333;
+		}
+		.gy_new h4{
+			margin: 40px 0px 0px 30px;
+		}
+		.gy_new p{
+			font-size: 12px;
+			color:#fff;
+			margin:10px 0px 0px 30px;
+		}
+		.gy_new input{
+			width:280px;
+			height:32px;
+			margin-left: 30px;
+			margin-top:15px;
+		}
+		.gy_new button{
+			width:55px;
+			height:35px;
+			padding-bottom: 2px;
+			background-color: #f00;
+			color:#fff;
+			font-size: 18px;
+			border:none;
+		}
+		.gy_money{
+			width:409px;
+			height:551px;
+			background-color:#fff;
+			float:right;
+			margin-left:25px;
+		}
+		.gy_money .content{
+			padding:40px 50px;
+			position:relative;
+		}
+		.gy_money .content h1{
+			font-size: 28px;
+			margin-bottom: 30px;
+			margin-top: 20px;
+		}
+		.gy_money .content h5{
+			font-size: 15px;
+			margin-bottom: 20px;
+		}
+		.gy_money .content .th li{
+			margin:20px 0 20px 0;
+		}
+		.gy_money .content ul li img{
+			display: inline-block;
+			float:left;
+			width:25px;
+			height:25px;
+			margin-bottom: 20px;
+			margin-left: 8px;
+			margin-top: 20px;
+		}
+		.gy_money .content h4{
+			clear:both;
+		}
+		.gy_money .content .btn{
+			width:120px;
+			height:150px;
+			position:absolute;
+			top:370px;
+			left:250px;
+		}
+		.gy_money .content .th li a{
+			color: #000;
+		}
+		.gy_money .content .btn .btn-1,.gy_money .content .btn .btn-2{
+			width:120px;
+			height:50px;
+			float:left;
+			background-color: #222;
+			color:#fff;
+			border:none;
+			margin-bottom: 30px;
+		}
+		.gy_money .content .btn .btn-1:hover{
+			background-color: #f00;
+		}
+		.gy_money .content .btn .btn-2:hover{
+			background-color: #f00;
+		}
+		.gy_list{
+			width:845px;
+			height:497px;
+			background-color:#fff;
+			float:left;
+			margin-top:30px;
+		}
+		.gy_list ul{
+			float: left;
+			padding: 50px 55px;
+		}
+		.gy_list ul li h3{
+			font-size: 24px;
+		}
+		.gy_list ul li{
+			margin-bottom: 20px;
+		}
+		.gy_list ul li a{
+			color:#000;			
+		}
+		.gy_list ul li a:hover{
+			color:#f00;
+		}
+		.footer{
+			display: table;
+			clear:both;
+			margin:30px auto;
+			width:1280px;
+			height:150px;
+			background-color:#fff;
+			text-align:center;
+		}
+		.footer ul{
+			margin-left: 487px;
+			margin-top: 30px;
+			margin-bottom: 80px;
+		}
+		.footer ul li{
+			float: left;
+			margin-right: 30px;
+			font-size: 14px;
+		}
+		.footer ul li a{
+			color:#000;			
+		}
+		.footer .p1{
+			clear:both;
+			color: #000;
+			margin-bottom: 20px;
+		}
+		.footer .p1 a{
+			color: #000;
+
+		}
+		.footer .p2,.footer .p3{
+			color:#ccc;
+			margin-top: 10px;
+			font-size: 14px;
+		}

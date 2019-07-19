@@ -1,0 +1,84 @@
+body{
+    background-color:#e8e8e8;
+}
+.shop{
+    width:1280px;
+    height:720px;
+    margin:30px auto;
+    background-color: #fff;
+}
+.shop h2{
+    font-weight: 400;
+    padding-top: 65px;
+    padding-left: 45px;
+    margin-bottom:35px;
+}
+.shop table{
+    width:1160px;
+    margin-left: 45px;
+    color:#aaa;
+}
+.shop table td{
+    border-bottom: 1px solid #aaa;
+    padding-bottom:20px;
+    padding-top:10px;
+}
+.shop table td img{
+    width:70px;
+    height:70px;
+    vertical-align:bottom;    
+}
+.shop table .p1{
+    display: inline-block;
+    margin-left: 15px;
+}
+.shop table .s1{
+    display:block;
+}
+.shop table .s2{
+    display: block;
+}
+.shop table input{
+    width:25px;
+    outline:none;
+    border:none;
+    text-align: center;
+}
+.shop table button{
+    background-color: #fff;
+    border:1px solid #eee;
+}
+.shop table tr td .price{
+    font-weight: bold;
+}
+.shop .list1{
+    float: left;
+    margin-left:730px;
+    margin-top:50px;
+}
+.shop .list2{
+    float: right;
+    margin-right:77px;
+    margin-top:50px;
+}
+.shop ul .fo{
+    font-size: 18px;
+}
+
+
+.shop .foot{
+    clear: both;
+    padding-top: 30px;
+    float: right;
+    margin-right: 78px;
+}
+.foot .ad{
+    display:inline-block;
+    width:200px;
+    height:45px;
+    background-color:#f00;
+    color:#fff;
+    text-align:center;
+    line-height: 40px;
+    margin-left: 20px;
+}

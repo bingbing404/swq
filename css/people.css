@@ -1,0 +1,68 @@
+.con{
+    width:1280px;
+    height:800px;
+    margin:30px auto;
+}
+.form{
+    width:800px;
+    height:800px;
+    background-color:#fff;
+    float: left;
+    font-size:14px;
+}
+.form .p1{
+    padding:40px 20px; 
+}
+.p2,.p3,.p4{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+table{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+table tr td{
+    padding:5px 0;
+}
+table input{
+    padding-left: 5px;
+    padding-right:130px;
+    padding-top:4px;
+    padding-bottom: 4px;
+    outline: none;
+}
+ input::placeholder{
+    color:#bbb;
+}
+table tr .over{
+    padding: 20px 0;
+}
+table tr .poer{
+    padding-bottom:8px;
+}
+table tr .coer{
+    padding-top:8px;
+}
+table tr .toer{
+    padding-top:15px;
+}
+table tr td button{
+    width:350px;
+    height:35px;
+    line-height: 35px;
+    padding-left: 8px;
+    background-image:linear-gradient(to right,#5f707c,#95accc);
+    border:none;
+    text-align: left;
+    color:#fff;
+}
+.photo{
+    width:450px;
+    height: 800px;
+    background-color:#fff;
+    float: left;
+    margin-left: 30px;
+}
+.photo img{
+    width:450px;
+}

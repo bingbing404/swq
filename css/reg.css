@@ -1,0 +1,135 @@
+body{
+    background-color:#e8e8e8;
+}
+.reg{
+    width:1280px;
+    height:650px;
+    margin:30px auto;
+    background-color:#fff;
+}
+.reg h2{
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.reg .left{
+    float:left;
+    padding-left: 80px;
+    margin-top: 50px;
+}
+.left .p1 a{
+    color:#ccc;
+    font-size: 15px;
+}
+.left .p1{
+	    margin-bottom: 20px;
+}
+.left .p2 a{
+    display:block;
+    width:280px;
+    height:40px;
+    background-color:#f00;
+    border:none;
+    text-align:center;
+    line-height: 40px;
+    color:#fff;
+    margin-bottom: 30px;
+}
+.left .p3{
+    font-size: 16px;
+    font-weight: bold;
+}
+.left .p4 a img{
+    display:inline-block;
+    margin-top: 20px;
+}
+.left .p4 a:not(:first-child){
+    margin-left: 20px;
+}
+.reg .right{
+    float: left;
+    margin-left: 260px;
+    padding-left: 100px;
+    margin-top:50px;
+    border-left: 1px solid #eee;
+}
+.right{
+    color:#aaa;
+    font-size:15px;
+}
+.right input{
+    border:none;
+    outline:none;
+    background-color:#eee;
+    height:35px;
+}
+.right table tr .name{
+    width:350px;
+}
+.right h2{
+    color:#000;
+}
+.right .p1{
+    margin-bottom: 20px;
+}
+.right .p2{
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+.right table tr td .hk{
+    display:inline-block;
+    margin-left: 319px;
+}
+.right table tr td .hk2{
+    display:inline-block;
+    margin-left: 265px;
+}
+.right table .tr1{
+    display:inline-block;
+    color:#f00;
+    padding:10px 60px;
+    border-top:1px solid #eee;
+    border-left:1px solid #eee;
+    border-right:1px solid #eee;
+    font-weight: bold;
+}
+.right table .tr2{
+    display: inline-block;
+    padding:10px 55px;
+    border:1px solid #eee;
+}
+.right table td select{
+    background-color: #eee;
+    border:none;
+    height:35px;
+    margin-left: 10px;
+}
+.right table span{
+    color:#f00;
+}
+.right table tr .duo1{
+    vertical-align: middle;
+}
+.right table tr .duo1 input{
+    vertical-align: middle;
+}
+.right table tr .duo2{
+    vertical-align: middle;
+}
+.right table tr .duo2 input{
+    vertical-align: middle;
+}
+
+
+.right table tr .btn a{
+    display: inline-block;
+    width:220px;
+    height:40px;
+    background-color:#f00;
+    color:#fff;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 192px;
+}
+.right table tr td .ps{
+    width:413px;
+}

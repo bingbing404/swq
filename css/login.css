@@ -1,0 +1,73 @@
+body{
+    background-color:#e8e8e8;
+}
+.login{
+    width: 1280px;
+    height:650px;
+    margin:30px auto;
+    background-color: #fff;
+    color:#aaa;
+}
+.login h2,.login table{
+    margin:30px 60px;
+}
+.login h2{
+    padding-top: 30px;
+    color:#000;
+}
+.login table{
+    width:1145px;
+    height: 520px;
+}
+.login table tr td{
+    padding-right: 220px;
+}
+.login table tr .td2{
+    padding-left: 52px;
+}
+.login table tr td{
+    font-size: 13px;
+}
+.login table .fon1{
+    font-size: 18px;
+    color:#aaa;
+}
+.login table .ta td a{
+    display:inline-block;
+    width:220px;
+    height: 50px;
+    background-color: #f00;
+    color:#fff;
+    font-weight: bold;
+    font-size:15px;
+    line-height: 50px;
+    padding-left: 25px;
+}
+.login table .ta td a:hover{
+    background-color: #eee;
+    color:#f00;
+}
+.login table tr td img{
+    display: inline-block;
+    margin-left: 10px;
+}
+.login table tr td .in1{
+    width:280px;
+}
+.login table tr td input{
+    border:0;
+    outline: 0;
+    height: 32px;
+    background: #eee;
+    padding-left: 10px;
+}
+.login table tr span{
+    color:#f00;
+}
+.login table tr .fon2{
+    color:#000;
+}
+.login table tr td .a1 img{
+    width:20px;
+    height: 20px;
+}

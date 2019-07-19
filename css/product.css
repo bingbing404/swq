@@ -1,0 +1,404 @@
+		
+		.man{
+			width:1280px;
+			height: 400px;
+			margin:30px auto;
+			background-color: #fff;
+			box-sizing:border-box;
+			padding:30px 30px;
+			position: relative;
+		}
+		.man .nan1{
+			width:500px;
+		}
+		.man h2{
+			position: absolute;
+			top:265px;
+			left: 815px;
+			font-size: 30px;
+			font-family: "楷体";
+
+		}
+		.man .con{
+			position: absolute;
+			top:310px;
+			left: 667px;
+			font-size: 18px;
+			font-family: "楷体";
+		}
+		.man .nan2{
+			width:500px;
+			margin-top: -25px;
+			position: absolute;
+			top:55px;
+			left: 660px;
+		}
+		
+		.product .yi,.product .er,.product .san{
+			width:1280px;
+			height:400px;
+			margin:20px auto;
+		}
+		.yi .was1,.yi .was2,.yi .was3{
+			width:418px;
+			height:400px;
+			background-color: #fff;
+			float: left;
+		}
+		.yi .was1{
+			margin-right: 13px;
+			position: relative;
+		}
+		.was1 a img{
+			width:270px;
+			position: absolute;
+			left: 80px;
+		}
+		.was1 .pt1 a{
+			color:#aaa;
+			position: absolute;
+			top:276px;
+			left:137px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was1 .pm1{
+			position: absolute;
+			top:308px;
+			left: 175px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was1 button{
+			width:180px;
+			height: 58px;
+			background-color: #f00;
+			color:#fff;
+			position: absolute;
+			top: 334px;
+			left: 130px;
+			border:none;
+			font-size: 20px;
+		}
+		.yi .was2{
+			margin-right: 13px;
+			position: relative;
+		}
+
+		.was2 a img{
+			width:270px;
+			position: absolute;
+			left: 80px;
+		}
+		.was2 .pt2 a{
+			color:#aaa;
+			position: absolute;
+			top:276px;
+			left:186px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was2 .pm2{
+			position: absolute;
+			top:308px;
+			left: 178px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was2 button{
+			width:180px;
+			height: 58px;
+			background-color: #f00;
+			color:#fff;
+			position: absolute;
+			top: 334px;
+			left: 130px;
+			border:none;
+			font-size: 20px;
+		}
+		.yi .was3{
+			position: relative;
+		}
+		.was3 a img{
+			width:270px;
+			position: absolute;
+			left: 80px;
+		}
+		.was3 .pt3 a{
+			color:#aaa;
+			position: absolute;
+			top:276px;
+			left:183px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was3 .pm3{
+			position: absolute;
+			top:308px;
+			left: 178px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was3 button{
+			width:180px;
+			height: 58px;
+			background-color: #f00;
+			color:#fff;
+			position: absolute;
+			top: 334px;
+			left: 130px;
+			border:none;
+			font-size: 20px;
+		}
+
+
+		.er .was4,.er .was5,.er .was6{
+			width:418px;
+			height:400px;
+			background-color: #fff;
+			float: left;
+		}
+		.er .was4{
+			margin-right: 13px;
+			position: relative;
+		}
+		.was4 a img{
+			width:270px;
+			position: absolute;
+			left: 80px;
+		}
+		.was4 .pt4 a{
+			color:#aaa;
+			position: absolute;
+			top:276px;
+			left:183px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was4 .pm4{
+			position: absolute;
+			top:308px;
+			left: 178px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was4 button{
+			width:180px;
+			height: 58px;
+			background-color: #f00;
+			color:#fff;
+			position: absolute;
+			top: 334px;
+			left: 130px;
+			border:none;
+			font-size: 20px;
+		}
+
+		.er .was5{
+			margin-right: 13px;
+			position: relative;
+		}
+		.was5 a img{
+			width:270px;
+			position: absolute;
+			left: 80px;
+		}
+		.was5 .pt5 a{
+			color:#aaa;
+			position: absolute;
+			top:276px;
+			left:183px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was5 .pm5{
+			position: absolute;
+			top:308px;
+			left: 178px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was5 button{
+			width:180px;
+			height: 58px;
+			background-color: #f00;
+			color:#fff;
+			position: absolute;
+			top: 334px;
+			left: 130px;
+			border:none;
+			font-size: 20px;
+		}
+		.er .was6{
+			position: relative;
+		}
+		.was6 a img{
+			width:270px;
+			position: absolute;
+			left: 80px;
+		}
+		.was6 .pt6 a{
+			color:#aaa;
+			position: absolute;
+			top:276px;
+			left:183px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was6 .pm6{
+			position: absolute;
+			top:308px;
+			left: 178px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was6 button{
+			width:180px;
+			height: 58px;
+			background-color: #f00;
+			color:#fff;
+			position: absolute;
+			top: 334px;
+			left: 130px;
+			border:none;
+			font-size: 20px;
+		}
+
+		.san .was7,.san .was8,.san .was9{
+			width:418px;
+			height:400px;
+			background-color: #fff;
+			float: left;
+		}
+		.san .was7{
+			margin-right: 13px;
+			position: relative;
+		}
+		.was7 a img{
+			width:270px;
+			position: absolute;
+			left: 80px;
+		}
+		.was7 .pt7 a{
+			color:#aaa;
+			position: absolute;
+			top:286px;
+			left:183px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was7 .pm7{
+			position: absolute;
+			top:308px;
+			left: 178px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was7 button{
+			width:180px;
+			height: 58px;
+			background-color: #f00;
+			color:#fff;
+			position: absolute;
+			top: 334px;
+			left: 130px;
+			border:none;
+			font-size: 20px;
+		}
+		.san .was8{
+			margin-right: 13px;
+			position: relative;
+		}
+		.was8 a img{
+			width:270px;
+			position: absolute;
+			left: 80px;
+		}
+		.was8 .pt8 a{
+			color:#aaa;
+			position: absolute;
+			top:276px;
+			left:183px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was8 .pm8{
+			position: absolute;
+			top:308px;
+			left: 178px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was8 button{
+			width:180px;
+			height: 58px;
+			background-color: #f00;
+			color:#fff;
+			position: absolute;
+			top: 334px;
+			left: 130px;
+			border:none;
+			font-size: 20px;
+		}
+		.san .was9{
+			position: relative;
+		}
+		.was9 a img{
+			width:270px;
+			position: absolute;
+			left: 72px;
+		}
+		.was9 .pt9 a{
+			color:#aaa;
+			position: absolute;
+			top:286px;
+			left:183px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was9 .pm9{
+			position: absolute;
+			top:308px;
+			left: 170px;
+			font-weight: bold;
+			font-size: 18px;
+		}
+		.was9 button{
+			width:180px;
+			height: 58px;
+			background-color: #f00;
+			color:#fff;
+			position: absolute;
+			top: 334px;
+			left: 120px;
+			border:none;
+			font-size: 20px;
+		}
+
+		.page{
+			width:1280px;
+			height: 80px;
+			background-color: #fff;
+			margin:0 auto;
+		}
+		.page ul li{
+			border: 1px solid #eee;
+			float: left;
+			margin-top:15px;
+			background-color: #eee;
+			margin-left:30px;
+			padding:13px 20px;
+			font-size: 18px;
+			border-radius: 5px;
+		}
+		.page ul li:hover{
+			background-color: #aff;
+		}
+		.gofive{
+			margin-top: 30px;
+		}
+
+		.d1,.d2,.d3,.d4{
+			position:relative;
+			z-index:10;
+		}
