@@ -273,14 +273,68 @@
 		.nav .nav_po span a{
 			color:#aaa;			
 		}		
-		.nav_img{
+		/* 轮播样式 */
+		#main{
 			width:1280px;
 			height:560px;
-			margin:auto;
-			display:block;
+			margin:0 auto;
+		}		
+		#banner{
+			width:1280px;
+			height:560px;
+			overflow:hidden;
+			position: relative;
 		}
-		.nav_img .img2,.nav_img .img3,.nav_img .img4,.nav_img .img5{
-			display: none;
+		#ul-imgs.transition{
+			transition:all .5s linear;
+		}
+		#ul-imgs>li{
+			width:1280px;
+			float: left;
+		}
+		#ul-imgs img{
+			width:1280px;
+			height:560px;
+		}
+		#ul-idxs{
+			width:150px;
+			margin:0 auto;
+			position: absolute;
+			bottom:30px;
+			left: 50%;
+			margin-left: -50px;
+		}
+		#ul-idxs>li{
+			float: left;
+			width:18px;
+			height:18px;
+			background-color:#fff;
+			border-radius:50%;
+			margin:0 5px;
+			cursor: pointer;
+		}
+		#ul-idxs>li.active{
+			background-color:#0ff;
+		}
+		#btn-left,#btn-right{
+			width:60px;
+			height:100%;
+			position: absolute;
+			top:0;
+			background-repeat: no-repeat;
+			background-position: center;
+			cursor: pointer;
+		}
+		#btn-left{
+			left:20px;
+			background-image: url(../img/left_ar.png);
+		}
+		#btn-right{
+			right:20px;
+			background-image:url(../img/right_ar.png);
+		}
+		#btn-left:hover,#btn-right:hover{
+			background-size: 40px 70px;
 		}
 		.ree{
 			width:1280px;
