@@ -3,6 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<title>商品详情页</title>
+	<link rel="icon" href="https://shop.swatch.cn/media/favicon/stores/1/favicon.ico" type="../img/icon.ico">
+	<link rel="icon shortcut" href="https://shop.swatch.cn/media/favicon/stores/1/favicon.ico" type="../img/icon.ico">
 	<link rel="stylesheet" href="../css/head.css">
 	<link rel="stylesheet" href="../css/foot.css">
 	<link rel="stylesheet" href="../css/deta.css">
@@ -171,22 +173,22 @@
 
 	<div class="details">
 		<div class="deta-1">
-			<div class="deta-11">
+			<div class="deta-11" id="list">
 				<img src="../img/img3.jpg" alt="">
 				<img src="../img/img09.jpg" alt="">
 				<img src="../img/img5.jpg" alt="">
 				<img src="../img/img6.jpg" alt="">
 				<img src="../img/img4.jpg" alt="">
 			</div>
-			<img src="../img/img3.jpg" alt="" class="bimg">
+			<img src="../img/img3.jpg" alt="" class="bimg" id="md">
 			<div class="deta-12">
 				<h2>SVUW101</h2>
 				<h3>王俊凯同款</h3>
 				<h3>Swatch-New Skin</h3>
 				<h1>￥688.00</h1>
-				<div class="btn">数量
+				<div class="btn" id="btns">数量
 					<button>-</button>
-					<input type="text" value="1">
+					<span>1</span>
 					<button>+</button>
 				</div>
 				<a href="#" class="a1">现在购买</a>
@@ -387,5 +389,6 @@
 		<p class="p2">SWATCH® China</p>
 		<p class="p3">沪ICP备16030460号-1</p>
 	</div>
+	<script src="../js/deta.js"></script>
 </body>
 </html>
